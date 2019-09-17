@@ -1,0 +1,142 @@
+nav{
+    text-align: right;
+    color: rgb(59, 165, 235);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+a:link{
+    color: inherit;
+    text-decoration: none;
+}
+a:visited{
+    color: inherit;
+}
+footer{
+    background-color: rgb(59, 165, 235);
+    width: 90%;
+    border-radius: 20px 20px 0px 0px; 
+    bottom: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 20px;
+    height: 50px;
+    color: #ffffff;
+    position: absolute;
+}
+aside{
+    position: relative;
+    float: right;
+    padding-top: 50px;
+    padding-right: 80px;
+    width: 400px;
+}
+main{
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 80px;
+}
+h2{
+    color: rgb(59, 165, 235);
+}
+.navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.foot{
+    padding-right:20px;
+    padding-top: 20px;
+}
+.details{
+    width: 280px;
+    height: 25px;
+    margin-top: 20px;
+    border: none;
+    border-bottom: 1px solid;
+    border-color: rgb(59, 165, 235);
+}
+.button1{
+    background-color: rgb(59, 165, 235);
+    color: #ffffff;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: none;
+}
+.tc{
+    color: rgb(59, 165, 235);
+}
+.tcs{
+    margin-top: 30px;
+}
+.details2{
+    width: 300px;
+    height: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.details3{
+    width: 300px;
+    margin-top: 5px;
+}
+.no{
+    margin-left: 103px;
+}
+#navig{
+    display: inline;
+}
+#title{
+    padding-right: 220px;
+    color: rgb(59, 165, 235);
+    font-weight: bold;
+    font-size: 17px;
+}
+#fot{
+    padding-left: 100px;
+}
+#twlogo{
+    padding-left: 100px;
+}
+#fblogo{
+    padding-right: 100px;
+}
+#abt{
+    padding-left: 50px;
+}
+#forgot{
+    text-align: right;
+    font-size: 15px;
+    color: rgb(59, 165, 235);
+    padding-top: 10px;
+}
+#signup{
+    float: right;
+    margin-left: 350px;
+}
+#call{
+    color: rgb(182, 11, 5);
+}
+#forgotten{
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 500px;
+}
+#resetsuccess{
+    text-align: center;
+    margin-top: 50px;
+}
+#main2{
+    position: absolute;
+    padding-left: 80px;
+}
+#main3{
+    padding-left: 80px;
+}
+#aside2{
+    position: relative;
+    float: right;
+    padding-top: 0px;
+    padding-right: 80px;
+    width: 400px;
+}
